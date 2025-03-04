@@ -1,6 +1,6 @@
 dataset:
   img_path: /scratch/ppoudel #/work/FAC/HEC/DESI/yshresth/aim/pshresth #/raid/Tdata/chestXpert
-  ann_path: /content/CAR-MFL/mimic-cxr-processed #/home/bbhattar/Tdata/chestXpert/mimic-cxr-processed
+  ann_path: /kaggle/working/CAR-MFL/mimic-cxr-processed #/home/bbhattar/Tdata/chestXpert/mimic-cxr-processed
   dset_name: mimic-cxr
   view: APPA
   partition: iid1_noleak
