@@ -1,6 +1,6 @@
 dataset:
-  img_path: /content/CAR-MFL/scratch/ppoudel #/work/FAC/HEC/DESI/yshresth/aim/pshresth #/raid/Tdata/chestXpert
-  ann_path: /content/CAR-MFL/iuxray #/work/FAC/HEC/DESI/yshresth/aim/pranav/mimic-cxr-processed #/home/bbhattar/Tdata/chestXpert/mimic-cxr-processed
+  img_path: /kaggle/working/CAR-MFL/scratch/ppoudel #/work/FAC/HEC/DESI/yshresth/aim/pshresth #/raid/Tdata/chestXpert
+  ann_path: /kaggle/working/CAR-MFL/iuxray #/work/FAC/HEC/DESI/yshresth/aim/pranav/mimic-cxr-processed #/home/bbhattar/Tdata/chestXpert/mimic-cxr-processed
   dset_name: iuxray #mimic-cxr
   view: frontal #APPA
   partition: iid1_noleak
